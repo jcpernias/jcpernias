@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I teach Econometrics and Public Economics at [Jaume I University](https://www.uji.es), where I incorporate R and RStudio into my courses to provide students with a hands-on introduction to the fundamentals of data analysis and its applications in economics.
+
 <!--
 **jcpernias/jcpernias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
